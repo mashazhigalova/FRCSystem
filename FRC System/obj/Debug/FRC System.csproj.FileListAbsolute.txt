@@ -1,0 +1,135 @@
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\bin\Debug\FRC System.exe.config
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\bin\Debug\FRC System.exe
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\bin\Debug\FRC System.pdb
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\bin\Debug\FormattingRulesLibrary.dll
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\bin\Debug\FormattingRulesLibrary.pdb
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\obj\Debug\FRC System.csprojResolveAssemblyReference.cache
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\obj\Debug\FRC System.csproj.ResolveComReference.cache
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\obj\Debug\FRC_System.frmAddEditInfo.resources
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\obj\Debug\FRC_System.frmChoosingWay.resources
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\obj\Debug\FRC_System.frmColont.resources
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\obj\Debug\FRC_System.frmEditFont.resources
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\obj\Debug\FRC_System.frmEditNum.resources
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\obj\Debug\FRC_System.frmEditPar.resources
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\obj\Debug\FRC_System.frmFont.resources
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\obj\Debug\FRC_System.frmMain.resources
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\obj\Debug\FRC_System.frmNumeration.resources
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\obj\Debug\FRC_System.frmPaperFormat.resources
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\obj\Debug\FRC_System.frmStyle.resources
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\obj\Debug\FRC_System.Properties.Resources.resources
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\obj\Debug\FRC System.csproj.GenerateResource.Cache
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\obj\Debug\FRC System.exe.licenses
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\obj\Debug\FRC System.exe
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\obj\Debug\FRC System.pdb
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\bin\Debug\itextsharp.dll
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\bin\Debug\itextsharp.xml
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\bin\Debug\WinWordControl.dll
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\bin\Debug\WinWordControl.pdb
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\obj\Debug\FRC_System.StyleTitle.resources
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Maria Zhigalova\Desktop\FRC System\FRC System\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\bin\Debug\FRC System.exe.config
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\obj\Debug\FRC System.csproj.ResolveComReference.cache
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\obj\Debug\FRC System.exe
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\obj\Debug\FRC System.pdb
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\bin\Debug\FRC System.exe
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\bin\Debug\FRC System.pdb
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\bin\Debug\DocX.dll
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\bin\Debug\FormattingRulesLibrary.dll
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\bin\Debug\itextsharp.dll
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\bin\Debug\WinWordControl.dll
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\bin\Debug\FormattingRulesLibrary.pdb
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\bin\Debug\itextsharp.xml
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\bin\Debug\WinWordControl.pdb
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\obj\Debug\FRC System.csprojResolveAssemblyReference.cache
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\obj\Debug\FRC_System.frmAddEditInfo.resources
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\obj\Debug\FRC_System.frmChoosingWay.resources
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\obj\Debug\FRC_System.frmColont.resources
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\obj\Debug\FRC_System.frmEditFont.resources
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\obj\Debug\FRC_System.frmEditNum.resources
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\obj\Debug\FRC_System.frmEditPar.resources
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\obj\Debug\FRC_System.frmFont.resources
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\obj\Debug\FRC_System.frmMain.resources
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\obj\Debug\FRC_System.frmNumeration.resources
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\obj\Debug\FRC_System.frmPaperFormat.resources
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\obj\Debug\FRC_System.frmStyle.resources
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\obj\Debug\FRC_System.Properties.Resources.resources
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\obj\Debug\FRC_System.StyleTitle.resources
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\obj\Debug\FRC System.csproj.GenerateResource.Cache
+C:\Users\Maria Zhigalova\Desktop\Учебная\FRC System\FRC System\obj\Debug\FRC System.exe.licenses
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\bin\Debug\FRC System.exe.config
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\obj\Debug\FRC System.csproj.ResolveComReference.cache
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\obj\Debug\FRC System.exe
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\obj\Debug\FRC System.pdb
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\obj\Debug\FRC_System.frmAddEditInfo.resources
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\obj\Debug\FRC_System.frmChoosingWay.resources
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\obj\Debug\FRC_System.frmColont.resources
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\obj\Debug\FRC_System.frmEditFont.resources
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\obj\Debug\FRC_System.frmEditNum.resources
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\obj\Debug\FRC_System.frmEditPar.resources
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\obj\Debug\FRC_System.frmFont.resources
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\obj\Debug\FRC_System.frmMain.resources
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\obj\Debug\FRC_System.frmNumeration.resources
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\obj\Debug\FRC_System.frmPaperFormat.resources
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\obj\Debug\FRC_System.frmStyle.resources
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\obj\Debug\FRC_System.Properties.Resources.resources
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\obj\Debug\FRC_System.StyleTitle.resources
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\obj\Debug\FRC System.csproj.GenerateResource.Cache
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\obj\Debug\FRC System.exe.licenses
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\bin\Debug\FRC System.exe
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\bin\Debug\FRC System.pdb
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\bin\Debug\FormattingRulesLibrary.dll
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\bin\Debug\itextsharp.dll
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\bin\Debug\Spire.Doc.dll
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\bin\Debug\Spire.License.dll
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\bin\Debug\Spire.Pdf.dll
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\bin\Debug\WinWordControl.dll
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\bin\Debug\FormattingRulesLibrary.pdb
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\bin\Debug\itextsharp.xml
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\bin\Debug\Spire.Doc.xml
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\bin\Debug\Spire.License.xml
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\bin\Debug\WinWordControl.pdb
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FRC System\obj\Debug\FRC System.csprojResolveAssemblyReference.cache
+E:\III курс\FRC System\FRC System\bin\Debug\FRC System.exe.config
+E:\III курс\FRC System\FRC System\obj\Debug\FRC System.csproj.ResolveComReference.cache
+E:\III курс\FRC System\FRC System\obj\Debug\FRC System.exe
+E:\III курс\FRC System\FRC System\obj\Debug\FRC System.pdb
+C:\Users\Maria\Desktop\FRC System\FRC System\bin\Debug\FRC System.exe.config
+C:\Users\Maria\Desktop\FRC System\FRC System\obj\Debug\FRC System.csproj.ResolveComReference.cache
+C:\Users\Maria\Desktop\FRC System\FRC System\obj\Debug\FRC System.exe
+C:\Users\Maria\Desktop\FRC System\FRC System\obj\Debug\FRC System.pdb
+C:\Users\Maria\Desktop\FRC System\FRC System\bin\Debug\FRC System.exe
+C:\Users\Maria\Desktop\FRC System\FRC System\bin\Debug\FRC System.pdb
+C:\Users\Maria\Desktop\FRC System\FRC System\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Maria\Desktop\FRC System\FRC System\bin\Debug\FormattingRulesLibrary.dll
+C:\Users\Maria\Desktop\FRC System\FRC System\bin\Debug\itextsharp.dll
+C:\Users\Maria\Desktop\FRC System\FRC System\bin\Debug\OpenXmlPowerTools.dll
+C:\Users\Maria\Desktop\FRC System\FRC System\bin\Debug\Spire.Doc.dll
+C:\Users\Maria\Desktop\FRC System\FRC System\bin\Debug\Spire.License.dll
+C:\Users\Maria\Desktop\FRC System\FRC System\bin\Debug\Spire.Pdf.dll
+C:\Users\Maria\Desktop\FRC System\FRC System\bin\Debug\WinWordControl.dll
+C:\Users\Maria\Desktop\FRC System\FRC System\bin\Debug\FormattingRulesLibrary.pdb
+C:\Users\Maria\Desktop\FRC System\FRC System\bin\Debug\itextsharp.xml
+C:\Users\Maria\Desktop\FRC System\FRC System\bin\Debug\Spire.Doc.xml
+C:\Users\Maria\Desktop\FRC System\FRC System\bin\Debug\Spire.License.xml
+C:\Users\Maria\Desktop\FRC System\FRC System\bin\Debug\WinWordControl.pdb
+C:\Users\Maria\Desktop\FRC System\FRC System\obj\Debug\FRC System.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\FRC System\FRC System\obj\Debug\FRC_System.frmAddEditInfo.resources
+C:\Users\Maria\Desktop\FRC System\FRC System\obj\Debug\FRC_System.frmColont.resources
+C:\Users\Maria\Desktop\FRC System\FRC System\obj\Debug\FRC_System.frmEditFont.resources
+C:\Users\Maria\Desktop\FRC System\FRC System\obj\Debug\FRC_System.frmEditNum.resources
+C:\Users\Maria\Desktop\FRC System\FRC System\obj\Debug\FRC_System.frmEditPar.resources
+C:\Users\Maria\Desktop\FRC System\FRC System\obj\Debug\FRC_System.frmFont.resources
+C:\Users\Maria\Desktop\FRC System\FRC System\obj\Debug\FRC_System.frmMain.resources
+C:\Users\Maria\Desktop\FRC System\FRC System\obj\Debug\FRC_System.frmNumeration.resources
+C:\Users\Maria\Desktop\FRC System\FRC System\obj\Debug\FRC_System.frmPaperFormat.resources
+C:\Users\Maria\Desktop\FRC System\FRC System\obj\Debug\FRC_System.frmStyle.resources
+C:\Users\Maria\Desktop\FRC System\FRC System\obj\Debug\FRC_System.Properties.Resources.resources
+C:\Users\Maria\Desktop\FRC System\FRC System\obj\Debug\FRC_System.StyleTitle.resources
+C:\Users\Maria\Desktop\FRC System\FRC System\obj\Debug\FRC System.csproj.GenerateResource.Cache
+C:\Users\Maria\Desktop\FRC System\FRC System\obj\Debug\FRC System.exe.licenses
+C:\Users\Maria\Desktop\FRC System\FRC System\obj\Debug\FRC_System.frmStyleDetails.resources

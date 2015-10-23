@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{036B288E-B56B-4C62-898D-8A66D389CF5B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FRC_System</RootNamespace>
+    <AssemblyName>FRC System</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DocumentFormat.OpenXml, Version=2.5.5631.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\DocumentFormat.OpenXml.2.5\lib\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="FormattingRulesLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\FormattingRulesLibrary\bin\Debug\FormattingRulesLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.4.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\iTextSharp.5.5.4\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenXmlPowerTools">
+      <HintPath>..\packages\OpenXmlPowerTools.3.0.0\lib\OpenXmlPowerTools.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="Spire.Doc">
+      <HintPath>..\packages\Spire.Doc.5.3.46\lib\net40\Spire.Doc.dll</HintPath>
+    </Reference>
+    <Reference Include="Spire.License">
+      <HintPath>..\packages\Spire.Doc.5.3.46\lib\net40\Spire.License.dll</HintPath>
+    </Reference>
+    <Reference Include="Spire.Pdf">
+      <HintPath>..\packages\Spire.Doc.5.3.46\lib\net40\Spire.Pdf.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+    <Reference Include="WinWordControl">
+      <HintPath>..\WinWordControl\bin\Debug\WinWordControl.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="formatting_rules_DBDataSet.cs">
+      <DependentUpon>formatting_rules_DBDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="formatting_rules_DBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>formatting_rules_DBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddEditInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddEditInfo.Designer.cs">
+      <DependentUpon>frmAddEditInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmColont.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmColont.Designer.cs">
+      <DependentUpon>frmColont.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditFont.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditFont.Designer.cs">
+      <DependentUpon>frmEditFont.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditNum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditNum.Designer.cs">
+      <DependentUpon>frmEditNum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditPar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditPar.Designer.cs">
+      <DependentUpon>frmEditPar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFont.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFont.Designer.cs">
+      <DependentUpon>frmFont.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNumeration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNumeration.Designer.cs">
+      <DependentUpon>frmNumeration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPaperFormat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPaperFormat.Designer.cs">
+      <DependentUpon>frmPaperFormat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStyle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStyle.Designer.cs">
+      <DependentUpon>frmStyle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStyleDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStyleDetails.Designer.cs">
+      <DependentUpon>frmStyleDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StyleTitle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StyleTitle.Designer.cs">
+      <DependentUpon>StyleTitle.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmAddEditInfo.resx">
+      <DependentUpon>frmAddEditInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmColont.resx">
+      <DependentUpon>frmColont.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditFont.resx">
+      <DependentUpon>frmEditFont.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditNum.resx">
+      <DependentUpon>frmEditNum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditPar.resx">
+      <DependentUpon>frmEditPar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFont.resx">
+      <DependentUpon>frmFont.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNumeration.resx">
+      <DependentUpon>frmNumeration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPaperFormat.resx">
+      <DependentUpon>frmPaperFormat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStyle.resx">
+      <DependentUpon>frmStyle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStyleDetails.resx">
+      <DependentUpon>frmStyleDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="StyleTitle.resx">
+      <DependentUpon>StyleTitle.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="formatting_rules_DBDataSet.xsc">
+      <DependentUpon>formatting_rules_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="formatting_rules_DBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>formatting_rules_DBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="formatting_rules_DBDataSet.xss">
+      <DependentUpon>formatting_rules_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

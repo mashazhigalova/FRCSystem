@@ -1,0 +1,24 @@
+C:\Users\Maria Zhigalova\Desktop\WinWordControl\obj\Debug\WinWordControl.csprojResolveAssemblyReference.cache
+C:\Users\Maria Zhigalova\Desktop\WinWordControl\obj\Debug\WinWordControl.csproj.ResolveComReference.cache
+C:\Users\Maria Zhigalova\Desktop\WinWordControl\obj\Debug\WinWordControl.WinWordControl.resources
+C:\Users\Maria Zhigalova\Desktop\WinWordControl\obj\Debug\WinWordControl.csproj.GenerateResource.Cache
+C:\Users\Maria Zhigalova\Desktop\WinWordControl\bin\Debug\WinWordControl.dll
+C:\Users\Maria Zhigalova\Desktop\WinWordControl\bin\Debug\WinWordControl.pdb
+C:\Users\Maria Zhigalova\Desktop\WinWordControl\obj\Debug\WinWordControl.dll
+C:\Users\Maria Zhigalova\Desktop\WinWordControl\obj\Debug\WinWordControl.pdb
+C:\Users\Maria Zhigalova\Desktop\FRC System\WinWordControl\bin\Debug\WinWordControl.dll
+C:\Users\Maria Zhigalova\Desktop\FRC System\WinWordControl\bin\Debug\WinWordControl.pdb
+C:\Users\Maria Zhigalova\Desktop\FRC System\WinWordControl\obj\Debug\WinWordControl.csprojResolveAssemblyReference.cache
+C:\Users\Maria Zhigalova\Desktop\FRC System\WinWordControl\obj\Debug\WinWordControl.csproj.ResolveComReference.cache
+C:\Users\Maria Zhigalova\Desktop\FRC System\WinWordControl\obj\Debug\WinWordControl.WinWordControl.resources
+C:\Users\Maria Zhigalova\Desktop\FRC System\WinWordControl\obj\Debug\WinWordControl.csproj.GenerateResource.Cache
+C:\Users\Maria Zhigalova\Desktop\FRC System\WinWordControl\obj\Debug\WinWordControl.dll
+C:\Users\Maria Zhigalova\Desktop\FRC System\WinWordControl\obj\Debug\WinWordControl.pdb
+C:\Users\Maria\Desktop\FRC System\WinWordControl\bin\Debug\WinWordControl.dll
+C:\Users\Maria\Desktop\FRC System\WinWordControl\bin\Debug\WinWordControl.pdb
+C:\Users\Maria\Desktop\FRC System\WinWordControl\obj\Debug\WinWordControl.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\FRC System\WinWordControl\obj\Debug\WinWordControl.csproj.ResolveComReference.cache
+C:\Users\Maria\Desktop\FRC System\WinWordControl\obj\Debug\WinWordControl.WinWordControl.resources
+C:\Users\Maria\Desktop\FRC System\WinWordControl\obj\Debug\WinWordControl.csproj.GenerateResource.Cache
+C:\Users\Maria\Desktop\FRC System\WinWordControl\obj\Debug\WinWordControl.dll
+C:\Users\Maria\Desktop\FRC System\WinWordControl\obj\Debug\WinWordControl.pdb

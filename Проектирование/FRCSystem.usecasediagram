@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseModelRoot xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/SimpleShapesModel" xmlns:dm10="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" dslVersion="1.0.0.0" Id="1629e5a3-9bbc-4fbb-ad39-b8277ef26d05" name="FRCSystem" linkedPackageId="0bc869ed-1135-4238-82ae-26837a9f9a88" xmlns="http://schemas.microsoft.com/dsltools/UseCaseModel">
+  <packagedElements>
+    <useCaseModelRootHasTypes>
+      <actor Id="22f13250-220a-4fd2-a77a-eab1360c8ba7" name="Пользователь" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="936af2b2-f402-40bc-850b-49c4591170c1" />
+        <targetEnds>
+          <association Id="e8ed6ff9-791c-4fcb-8ab9-815ff3b6ca4e" isDerived="false" sourceEndRoleName="Пользователь" targetEndRoleName="Создать правила оформления" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="bce8d55e-9bbc-489f-b766-f0afe27c92af" LastKnownName="Работа с правилами оформления" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="46f327b1-7828-43f4-9aef-c62f90bcbf4a" name="Пользователь" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="a3618a70-e3ad-4cc5-be0b-6601dfce3dc2" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="f6fdda21-df03-4e68-a957-0d7869614d95" name="Создать правила оформления" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="2ca3b37e-962d-405a-bf9d-90e1eac7527c" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="c40dad82-93dc-4a8f-9df4-62a6f24978fb" />
+          </association>
+          <association Id="5fac6734-af48-4911-bdaa-3c71cc21e721" isDerived="false" sourceEndRoleName="Пользователь" targetEndRoleName="Просмотривать правила оформления" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="2bd77d9f-340f-4692-9931-df7955f797ee" LastKnownName="Просмотр правил оформления" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="06f8b28b-e870-4db8-acd5-7f197ea17ec5" name="Пользователь" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="775ae857-2c92-4f63-b543-fadc8100329a" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="58dd7e63-af62-444e-80bb-89dd202d6c8e" name="Просмотривать правила оформления" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="249d456d-6b1b-443a-8b70-e61ea07afb5e" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="583c0ab3-5738-4fdf-8230-2527f241db1a" />
+          </association>
+          <association Id="4c17cfe4-9413-4a48-af2b-05965d3bf474" isDerived="false" sourceEndRoleName="Пользователь" targetEndRoleName="Проверка документа в соответствии с правилами" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="b6237978-7c07-4493-a332-62c955df5c73" LastKnownName="Выполнение проверки документа Word  в соответствии с правилами" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="b4926d86-4157-4766-93c4-21608344f4bd" name="Пользователь" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="df3871df-c499-4fdb-9ebe-66cac6b80a01" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="23b4c46b-62d1-4c14-b288-36d8013bec1c" name="Проверка документа в соответствии с правилами" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="2d3ce7f8-2789-4a9d-99f4-f25eefb16c00" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="474b3b6b-8fde-432a-967f-e4323997b787" />
+          </association>
+          <association Id="fdeac2ea-6503-4a5b-9f70-c938dfa6e763" isDerived="false" sourceEndRoleName="Пользователь" targetEndRoleName="Загрузка текстового документа Word для проверки" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="0ad06359-b34a-4090-b3a3-59f7a727da1c" LastKnownName="Загрузка текстового документа Word для проверки" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="7d60d0fd-ca7b-4192-a682-96d9a9bc94e3" name="Пользователь" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="6b555085-7c0c-4e7d-a6d0-057525ab69de" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="452abb16-6752-4071-a7f8-17be166bf3cb" name="Загрузка текстового документа Word для проверки" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="8536e95b-d07e-41ad-a182-76c5bf60772d" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="4db71757-24b9-4df6-b630-1237919ef642" />
+          </association>
+        </targetEnds>
+      </actor>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="bce8d55e-9bbc-489f-b766-f0afe27c92af" name="Работа с правилами оформления" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="633e8e17-3d5f-441f-be34-cd4c7bd904bb" />
+        <additions>
+          <include Id="810a2cc3-0bc5-42ce-97af-657c12c8f886">
+            <useCaseMoniker Id="bb52dd72-9071-47f7-a36a-2b18896f3185" LastKnownName="Добавление правил оформления" />
+            <elementDefinition Id="9537bb71-f1a2-4f7b-8a01-066ea65f6baf" />
+          </include>
+          <include Id="5c0824ab-e146-4fa4-ad1f-c9e821bcdfd5">
+            <useCaseMoniker Id="ee9e5190-a03a-4336-b70c-6e315dd79544" LastKnownName="Редактирование правил оформления" />
+            <elementDefinition Id="aeaefa0b-2ab6-42dd-9a91-a5c44cf1e8cf" />
+          </include>
+        </additions>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="2bd77d9f-340f-4692-9931-df7955f797ee" name="Просмотр правил оформления" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="eeefdeda-51e5-44cf-81a9-e9ffbbba004c" />
+        <additions>
+          <include Id="62264d89-0f2d-490e-ba31-63d3d82bc427">
+            <useCaseMoniker Id="5a48710f-81c2-4bef-910e-898e523659ad" LastKnownName="Выбор правил для проверки документа" />
+            <elementDefinition Id="3c8d182c-187e-4a1e-b700-1cf9f9a2eda4" />
+          </include>
+        </additions>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="0ad06359-b34a-4090-b3a3-59f7a727da1c" name="Загрузка текстового документа Word для проверки" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="658add4b-f24e-4cd8-9ffc-94515207f87b" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="b6237978-7c07-4493-a332-62c955df5c73" name="Выполнение проверки документа Word  в соответствии с правилами" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="cddd30f5-0576-4b3b-8545-2655e972c0e2" />
+        <additions>
+          <include Id="059e2fce-d7ea-4358-b50e-cac2ba3518fb">
+            <useCaseMoniker Id="69359445-f93a-4009-a3f2-220e0e1ac9cc" LastKnownName="Получение комментариев по результатам проверки" />
+            <elementDefinition Id="37fe8057-13b8-4f66-85bd-94c7ee99e386" />
+          </include>
+        </additions>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="5a48710f-81c2-4bef-910e-898e523659ad" name="Выбор правил для проверки документа" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="2ae97bef-a5ab-4ce3-9084-16e9c45baeb0" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="bb52dd72-9071-47f7-a36a-2b18896f3185" name="Добавление правил оформления" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="e0d23877-6cd7-478e-a9cf-91936a59db4a" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="ee9e5190-a03a-4336-b70c-6e315dd79544" name="Редактирование правил оформления" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="0a5fd8fe-2698-4b92-b4fb-002f595b3d46" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="69359445-f93a-4009-a3f2-220e0e1ac9cc" name="Получение комментариев по результатам проверки" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="65d3c73a-550e-4bb4-b7b0-b19706ace275" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="99010cc3-0cb6-42ca-bd4e-3c25afab18d0" name="Удаление правил оформления" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="e315888d-141c-486f-a7ec-68c945c6f260" />
+        <extendedCases>
+          <extend Id="66c1f860-7d2d-478b-a020-177594315d50">
+            <useCaseMoniker Id="ee9e5190-a03a-4336-b70c-6e315dd79544" LastKnownName="Редактирование правил оформления" />
+            <elementDefinition Id="d6124df6-c814-472e-b55a-048d10e47d94" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </useCaseModelRootHasTypes>
+  </packagedElements>
+  <package Id="0bc869ed-1135-4238-82ae-26837a9f9a88" name="Проектирование">
+    <elementDefinition Id="f7591408-2bef-482a-aa64-142638c30587" />
+    <profileInstances>
+      <packageHasProfileInstances Id="4e0218bb-0fc8-427b-9acf-904006080d89">
+        <profileInstance Id="355abf0f-397b-4e9a-9397-e0c8be8dbfec" name="StandardProfileL2">
+          <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+        </profileInstance>
+        <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+      </packageHasProfileInstances>
+      <packageHasProfileInstances Id="92bd9c62-6d86-4c31-a614-c12767651059">
+        <profileInstance Id="6acde8e9-be04-41e4-8ae0-32b294521deb" name="StandardProfileL3">
+          <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+        </profileInstance>
+        <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+      </packageHasProfileInstances>
+    </profileInstances>
+  </package>
+</useCaseModelRoot>

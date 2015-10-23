@@ -1,0 +1,15 @@
+C:\Users\Maria Zhigalova\Desktop\FRC System\FormattingRulesLibrary\bin\Debug\FormattingRulesLibrary.dll
+C:\Users\Maria Zhigalova\Desktop\FRC System\FormattingRulesLibrary\bin\Debug\FormattingRulesLibrary.pdb
+C:\Users\Maria Zhigalova\Desktop\FRC System\FormattingRulesLibrary\obj\Debug\FormattingRulesLibrary.dll
+C:\Users\Maria Zhigalova\Desktop\FRC System\FormattingRulesLibrary\obj\Debug\FormattingRulesLibrary.pdb
+C:\Users\Maria Zhigalova\Desktop\FRC System\FormattingRulesLibrary\obj\Debug\FormattingRulesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FormattingRulesLibrary\bin\Debug\FormattingRulesLibrary.dll
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FormattingRulesLibrary\bin\Debug\FormattingRulesLibrary.pdb
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FormattingRulesLibrary\obj\Debug\FormattingRulesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FormattingRulesLibrary\obj\Debug\FormattingRulesLibrary.dll
+C:\Users\Maria Zhigalova\Desktop\Учебная\Программа с использованием Spire.Doc\FRC System\FormattingRulesLibrary\obj\Debug\FormattingRulesLibrary.pdb
+C:\Users\Maria\Desktop\FRC System\FormattingRulesLibrary\bin\Debug\FormattingRulesLibrary.dll
+C:\Users\Maria\Desktop\FRC System\FormattingRulesLibrary\bin\Debug\FormattingRulesLibrary.pdb
+C:\Users\Maria\Desktop\FRC System\FormattingRulesLibrary\obj\Debug\FormattingRulesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\FRC System\FormattingRulesLibrary\obj\Debug\FormattingRulesLibrary.dll
+C:\Users\Maria\Desktop\FRC System\FormattingRulesLibrary\obj\Debug\FormattingRulesLibrary.pdb
